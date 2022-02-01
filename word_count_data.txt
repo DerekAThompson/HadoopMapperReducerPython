@@ -1,0 +1,4 @@
+hello
+welcome to the hadoop mapper reducer with python
+here is some sample data to test with the hadoop mapper reducer
+data is welcome in hadoop here
